@@ -3,4 +3,4 @@ const greetings = (name) => {
 };
 
 greetings("Raju");
-greetings("Abhmahedhi");
+greetings("Abhmahi");
